@@ -4,3 +4,9 @@ C:\Users\vthukral\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data
 C:\Users\vthukral\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
 C:\Users\vthukral\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
 C:\Users\vthukral\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
+C:\Users\vthukral\Source\Repos\LearnAsp.Net\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+C:\Users\vthukral\Source\Repos\LearnAsp.Net\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+C:\Users\vthukral\Source\Repos\LearnAsp.Net\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.AssemblyReference.cache
+C:\Users\vthukral\Source\Repos\LearnAsp.Net\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\vthukral\Source\Repos\LearnAsp.Net\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+C:\Users\vthukral\Source\Repos\LearnAsp.Net\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
